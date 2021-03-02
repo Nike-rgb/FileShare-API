@@ -1,0 +1,5 @@
+//this is an example .env file. The environment variables you'll need to get this API running are as follows
+
+MONGO_DB_URI= //your mongoDB URI
+FRONTEND_BASE_URL= //your app url
+APP_BASE_URL = //api url

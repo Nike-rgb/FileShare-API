@@ -7,12 +7,10 @@ This is a RESTful api which you can use to build a file sharing web app.
 
 **TO UPLOAD FILE:**
 - Request:
- - ENDPOINT : POST to 'APP_BASE_URI/api/upload'
- - Req payload : multipart/formdata with filename 'myfile'
+  - ENDPOINT : POST to 'APP_BASE_URI/api/upload'
+  - Req payload : multipart/formdata with filename 'myfile'
 -Response:
  - 
-
-**
 
 
 

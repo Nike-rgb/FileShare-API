@@ -8,7 +8,6 @@ NOTE : Before using the api, you'll need to configure some environment varibles.
 TO UPLOAD FILE:
 
 ENDPOINT : POST to 'APP_BASE_URI/api/upload'
-
 Req payload : multipart/formdata with filename 'myfile'
 
 

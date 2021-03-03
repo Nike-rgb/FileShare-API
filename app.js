@@ -15,3 +15,4 @@ require('./config/db.config')();
 //setting up the routes
 app.use('/api/upload', require('./api/fileUpload'));
 app.use('/api/download', require('./api/download'));
+app.use('/api/delete', require('./api/removeFile'));

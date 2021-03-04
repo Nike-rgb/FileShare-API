@@ -10,8 +10,8 @@ API endpoints:
   - ENDPOINT : POST to 'APP_BASE_URI/api/upload'
   - Req payload : multipart/formdata with filename 'myfile'
  - Response :
- - content-type : 'json'
- - body : {uuid, downloadPageLink} 
+   - content-type : 'json'
+   - body : {uuid, downloadPageLink} 
 
 **Link to Download page:**
 - Request :
